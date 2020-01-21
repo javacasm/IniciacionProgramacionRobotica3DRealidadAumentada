@@ -30,7 +30,7 @@ BIBLIOGRAFÍA:
 
 El objetivo del presente curso es el utilizar estas herramientas para realizar diferentes proyectos educativos, por lo que su carácter es eminentemente práctico.
 1. [Contexto](./contexto.md)
-1. [Lenguajes de programación: Programando con Bloques](./IniciacionProgramacion.md) ](./Bloques.md)
+1. [Lenguajes de programación: Programando con Bloques](./IniciacionProgramacion.md) 
 1. [Scratch](./Scratch/Scratch.md) y [Makey-makey](./MakeyMakey/)
 1. [Introducción a la robótica](./IniciacionRobotica.md)
 1. [Arduino](./arduinoBloacks.md) y [Echidna shield](./Echidna.md)
