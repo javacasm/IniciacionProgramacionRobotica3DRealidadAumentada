@@ -30,11 +30,11 @@ BIBLIOGRAFÍA:
 
 El objetivo del presente curso es el utilizar estas herramientas para realizar diferentes proyectos educativos, por lo que su carácter es eminentemente práctico.
 1. [Contexto](./contexto.md)
-1. [Lenguajes de programación](./IniciacionProgramacion.md) [Programagando con Bloques](./Bloques.md)
+1. [Lenguajes de programación: Programando con Bloques](./IniciacionProgramacion.md) ](./Bloques.md)
 1. [Scratch](./Scratch/Scratch.md) y [Makey-makey](./MakeyMakey/)
 1. [Introducción a la robótica](./IniciacionRobotica.md)
 1. [Arduino](./arduinoBloacks.md) y [Echidna shield](./Echidna.md)
-1. Diseño e impresión 3D. Repositorios de modelos
+1. [Diseño](Tinkercad.md) e [impresión 3D](./impresion3D.md). [Repositorios de modelos](./repositorios.md)
 1. Realidad virtual y aumentada
 1. Experiencias de aula 
 
