@@ -29,14 +29,14 @@ BIBLIOGRAFÍA:
 ## Contenidos
 
 El objetivo del presente curso es el utilizar estas herramientas para realizar diferentes proyectos educativos, por lo que su carácter es eminentemente práctico.
-1. Contexto
-2. Iniciativas
-3. Lenguajes de programación
-4. Scratch y Makey-makey
-5. Arduino y echidna shield
-6. Diseño e impresión 3D. Repositorios de modelos
-7. Realidad virtual y aumentada
-8. Experiencias de aula 
+1. [Contexto](./contexto.md)
+1. [Lenguajes de programación](./IniciacionProgramacion.md) [Programagando con Bloques](./Bloques.md)
+1. [Scratch](./Scratch/Scratch.md) y [Makey-makey](./MakeyMakey/)
+1. [Introducción a la robótica](./IniciacionRobotica.md)
+1. [Arduino](./arduinoBloacks.md) y [Echidna shield](./Echidna.md)
+1. Diseño e impresión 3D. Repositorios de modelos
+1. Realidad virtual y aumentada
+1. Experiencias de aula 
 
 ## Descripción
 
