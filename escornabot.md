@@ -1,11 +1,3 @@
-#  PROYECTOS TIC INTERNIVELARES 2018/19 ([191811GE050](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191811GE050/))
-
-## CEP de Granada
-
-## José Antonio Vacas  @javacasm
-
-![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
-
 # [Escornabot](https://escornabot.com/web/es)
 
 [Documentacion](https://bricolabs.cc/wiki/proyectos/escornabot)
