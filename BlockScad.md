@@ -1,15 +1,3 @@
-# Diseño e Impresión 3D: técnicas y aplicaciones
-
-## Bibliomaker de la Biblioteca de la Facultad de Ciencias
-
-
-### José Antonio Vacas @javacasm
-
-![CCbySA](images/CCbySQ_88x31.png)
-
-## http://bit.ly/3DBiblio
-
-
 # [BlockScad](https://blockscad.einsteinsworkshop.com/)
 
 ![1](http://2.bp.blogspot.com/-P-chMl2oQvs/Vnah3-vUuqI/AAAAAAAAVHw/pT5gACWa_3Q/s1600/BlocksCAD.PNG)
