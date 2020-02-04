@@ -34,7 +34,7 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
     * Software básico de edición.
     * Introducción al diseño 3d     
 
-* Proceso de impresión
+* [Proceso de impresión](./ProcesoImpresion3D.md)
   * [Slicers](./Slicers.md)
   * [Materiales y sus parámetros](./Filamentos.md)
 
