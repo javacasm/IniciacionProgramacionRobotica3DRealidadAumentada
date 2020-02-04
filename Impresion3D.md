@@ -39,10 +39,10 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
   * [Materiales y sus parámetros](./Filamentos.md)
 
 * [Diseño 3D: TinkerCad](./Tinkercad.md)
-        * [Freecad](./Freecad.md)
-        * [Blender](./Blender.md)
-        * [BlockScad](./BlockScad.md)
-        * [OpenScad](http://www.openscad.org/)
+    * [Freecad](./Freecad.md)
+    * [Blender](./Blender.md)
+    * [BlockScad](./BlockScad.md)
+    * [OpenScad](http://www.openscad.org/)
 
 
 
