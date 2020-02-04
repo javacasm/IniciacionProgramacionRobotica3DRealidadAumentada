@@ -1,15 +1,4 @@
-# Diseño e Impresión 3D: técnicas y aplicaciones
-
-## Bibliomaker de la Biblioteca de la Facultad de Ciencias
-
-
-### José Antonio Vacas @javacasm
-
-![CCbySA](images/CCbySQ_88x31.png)
-
-## http://bit.ly/3DBiblio
-
-## Introducción
+## Introducción a la impresión 3D
 
 Se trata un curso práctico en el que los participantes aprendan a utilizar el Software necesario para Diseñar en 3D y para trabajar con impresoras 3D.
 
