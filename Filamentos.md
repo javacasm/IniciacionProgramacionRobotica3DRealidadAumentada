@@ -1,16 +1,3 @@
-# Diseño e Impresión 3D: técnicas y aplicaciones
-
-## Bibliomaker de la Biblioteca de la Facultad de Ciencias
-
-
-### José Antonio Vacas @javacasm
-
-![CCbySA](images/CCbySQ_88x31.png)
-
-## http://bit.ly/3DBiblio
-
-* *  *
-
 ## [Filamentos](http://comohacer.eu/comparativa-impresoras-3d/#Que_materiales_usan)
 
 Cada vez existen más materiales susceptibles de poder usarse en las impresoras.
