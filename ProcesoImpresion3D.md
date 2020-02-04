@@ -3,6 +3,7 @@
 
 ![](./images/20-best-3d-printing-software-tools-all-are-free.png)
 
+# MODELO (exportación)-> STL (laminador)-> GCode -> Impresora
 
 ## [Slicer/Laminadores](./Slicers.md)
 
