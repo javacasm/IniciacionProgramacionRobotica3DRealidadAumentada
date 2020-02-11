@@ -52,7 +52,7 @@ En linux
 
 Y pulsamos conectar
 
-![conectar](https://www.mblock.cc/doc/en/basics/images/chromebook-7.png)
+![conectar](https://www.mblock.cc/doc/en/hardware-basic/images/connect-2.png)
 
 ## Ejemplos
 
