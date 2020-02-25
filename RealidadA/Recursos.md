@@ -1,8 +1,6 @@
 Moviles
-gafas inmersivas
-App
-Programación con Unity
-Gafas 3D https://elpelusa.es/nuevo-mundo-con-gafas-3d
+
+
 Presentación Güevejar http://unblogfantasticoenguevejar.blogspot.com/2018/11/curso-tic-cep-de-granada.html
 
 Mundo virtual http://unblogfantasticoenguevejar.blogspot.com/2018/11/nuestro-universo-en-virtual.html
