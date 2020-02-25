@@ -14,13 +14,7 @@ http://web.catedu.es/webcatedu/index.php/buenas-practicas/253-experiencias-en-4-
 
 [Magic Lead](https://twitter.com/lesbird65)
 
-## Tour creator
 
-[Nuestro universo: Tour creator](https://unblogfantasticoenguevejar.blogspot.com/2018/11/nuestro-universo-en-virtual.html)
-
-[Ejemplo: la huerta de Lorca](https://poly.google.com/u/0/view/9Mz2g3b3M5N)
-
-[Tour creator](https://arvr.google.com/tourcreator/)
 
 ## Material Catedu
 https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/ra-introduccion-a-la-realidad-virtual.html
