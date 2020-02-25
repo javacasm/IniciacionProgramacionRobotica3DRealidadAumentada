@@ -29,17 +29,35 @@ Es una [comunidad](http://www.aumentaty.com/community/es/) donde podemos publica
 
 [Ejemplo en Creator](https://moodle.catedu.es/mod/book/view.php?id=9981&chapterid=453) [Videotutorial](https://moodle.catedu.es/mod/book/view.php?id=1000&chapterid=26)
 
+
+#### [Layar](https://www.layar.com/)
+
+![](https://i.pinimg.com/originals/1b/66/20/1b6620c70780b07b0dfed66e679c0c50.png)
+
+[Video](https://youtu.be/ZR4eSmmPCxg)
+
 ### Geoposicionamiento
 
 Creación de POI (Point of interest)
 
 [Apps](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/app-de-interes.html)
 
+
+#### Fotos 360
+
+[Cómo descargar fotos 360](https://educacionadistancia.juntadeandalucia.es/profesorado/autoformacion/mod/book/view.php?id=6805)
+
+#### Visitas virtuales con Round Me
+
+[Visitas virtuales con Round Me](https://educacionadistancia.juntadeandalucia.es/profesorado/autoformacion/mod/book/view.php?id=6807)
+
 ### Tour creator
 
 [La huerta de Lorca (CEIP Fed. García Lorca)](https://poly.google.com/u/0/view/9Mz2g3b3M5N)
 
 [Nuestro universo: Tour creator](https://unblogfantasticoenguevejar.blogspot.com/2018/11/nuestro-universo-en-virtual.html)
+
+[Tours](https://poly.google.com/creator/tours?dmr=0&pli=1/creator/tours/)
 
 [Tutorial de Tour creator](https://arvr.google.com/tourcreator/)
 
@@ -95,6 +113,8 @@ Apps para leerlos: Aplicaciones como "i-nigma" o “QR Code Reader”
 ![](https://unity.com/sites/default/files/styles/16_9_s_scale_width/public/2019-09/gloomy-43.jpg?itok=Svx-2UdR)
 
 Gafas 3D https://elpelusa.es/nuevo-mundo-con-gafas-3d
+
+## [Licencias y uso de recursos](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/ra-recursos-educativos-abiertos-rea.html)
 
 ## Recursos
 
