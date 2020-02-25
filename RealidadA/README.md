@@ -5,9 +5,9 @@
 
 ## Realidad Aumentada
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wukvYKi7UrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://www.actualidadiphone.com/wp-content/uploads/2017/09/vdnztasuyew-e1505917112610.jpg)
 
-[Vídeo de Ikea](https://www.youtube.com/watch?v=wukvYKi7UrI)
+[Vídeo realidad aumentada de Ikea](https://www.youtube.com/watch?v=wukvYKi7UrI)
 
 O instagram o snapchat
 
@@ -29,6 +29,21 @@ Es una [comunidad](http://www.aumentaty.com/community/es/) donde podemos publica
 
 [Ejemplo en Creator](https://moodle.catedu.es/mod/book/view.php?id=9981&chapterid=453) [Videotutorial](https://moodle.catedu.es/mod/book/view.php?id=1000&chapterid=26)
 
+### Geoposicionamiento
+
+Creación de POI (Point of interest)
+
+[Apps](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/app-de-interes.html)
+
+### Tour creator
+
+[La huerta de Lorca (CEIP Fed. García Lorca)](https://poly.google.com/u/0/view/9Mz2g3b3M5N)
+
+[Nuestro universo: Tour creator](https://unblogfantasticoenguevejar.blogspot.com/2018/11/nuestro-universo-en-virtual.html)
+
+[Tutorial de Tour creator](https://arvr.google.com/tourcreator/)
+
+)
 
 ### Códigos QR
 
@@ -37,6 +52,8 @@ Es una [comunidad](http://www.aumentaty.com/community/es/) donde podemos publica
 Apps para leerlos: Aplicaciones como "i-nigma" o “QR Code Reader”
 
 ## Realidad virtual
+
+![](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/img/realidad-virtual.png)
 
 ## Gafas inmersivas:
 
@@ -59,9 +76,18 @@ Apps para leerlos: Aplicaciones como "i-nigma" o “QR Code Reader”
 ### HoloLens
 ### Oculus
 ### ...
+### [Guía de compra](https://elpelusa.es/nuevo-mundo-con-gafas-3d)
 
-App
-Programación con Unity
+## Apps de Realidad Virtual
+
+[Apps](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/ra-apps-de-realidad-virtual.html)
+
+## Programación de Realidad Virtual
+
+[Unity](https://unity.com/es/unity/features/vr)
+
+![](https://unity.com/sites/default/files/styles/16_9_s_scale_width/public/2019-09/gloomy-43.jpg?itok=Svx-2UdR)
+
 Gafas 3D https://elpelusa.es/nuevo-mundo-con-gafas-3d
 
 ## Recursos
