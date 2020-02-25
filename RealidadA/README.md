@@ -43,7 +43,11 @@ Creación de POI (Point of interest)
 
 [Tutorial de Tour creator](https://arvr.google.com/tourcreator/)
 
-)
+### [Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=none)
+
+[Vídeo de Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=modal-video-n29VQwW-03o)
+
+[Listado de 100 expediciones]
 
 ### Códigos QR
 
@@ -82,6 +86,8 @@ Apps para leerlos: Aplicaciones como "i-nigma" o “QR Code Reader”
 
 [Apps](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/ra-apps-de-realidad-virtual.html)
 
+[Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=none)
+
 ## Programación de Realidad Virtual
 
 [Unity](https://unity.com/es/unity/features/vr)
@@ -95,3 +101,7 @@ Gafas 3D https://elpelusa.es/nuevo-mundo-con-gafas-3d
 [Curso de proyectos STEAM de la Junta Andalucía](https://educacionadistancia.juntadeandalucia.es/profesorado/autoformacion/course/view.php?id=150&section=6)
 
 [Curso de realidad virtual y aumentada de Ibán de la Horra para Catedu](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/)
+
+[Las tecnologías inmersivas aplicadas a la educación y la formación](https://eldiariodelaeducacion.com/espiral/2020/02/20/las-tecnologias-inmersivas-aplicadas-a-la-educacion-y-la-formacion/)
+
+![](https://eldiariodelaeducacion.com/espiral/wp-content/uploads/sites/27/2019/12/AR.jpg)
