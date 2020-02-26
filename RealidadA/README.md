@@ -53,31 +53,44 @@ Creación de POI (Point of interest)
 
 ### Tour creator
 
+Herramienta sencilla para la creación de Tours virtuales
+
 [La huerta de Lorca (CEIP Fed. García Lorca)](https://poly.google.com/u/0/view/9Mz2g3b3M5N)
 
 [Nuestro universo: Tour creator](https://unblogfantasticoenguevejar.blogspot.com/2018/11/nuestro-universo-en-virtual.html)
 
-[Tours](https://poly.google.com/creator/tours?dmr=0&pli=1/creator/tours/)
+[Herramienta de creación de Tours](https://poly.google.com/creator/tours?dmr=0&pli=1/creator/tours/)
 
 [Tutorial de Tour creator](https://arvr.google.com/tourcreator/)
 
-### [Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=none)
+[Visor: Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=none)
 
 [Vídeo de Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=modal-video-n29VQwW-03o)
 
-[Listado de 100 expediciones]
+[Listado de 100 expediciones Realidad Virtual](https://docs.google.com/spreadsheets/d/1uwWvAzAiQDueKXkxvqF6rS84oae2AU7eD8bhxzJ9SdY/edit#gid=765151678)
+
+[Listado de expediciones para Realidad Aumentada](https://docs.google.com/spreadsheets/d/1uwWvAzAiQDueKXkxvqF6rS84oae2AU7eD8bhxzJ9SdY/edit#gid=0)
 
 ### Códigos QR
 
-[Web](https://www.unitag.io/es/qrcode) para crearlos
+[Herramienta](https://www.unitag.io/es/qrcode) para crearlos
 
 Apps para leerlos: Aplicaciones como "i-nigma" o “QR Code Reader”
+
+Podemos crear:
+* URLs
+* Textos
+* Datos de contacto
+* Acceso Wifi
+* ...
 
 ## Realidad virtual
 
 ![](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/img/realidad-virtual.png)
 
-## Gafas inmersivas:
+## Gafas inmersivas
+
+![Gafas inmersivas](https://www.tventas.com/3195756-large_default/gafas-realidad-virtual-3d-vr-box.jpg)
 
 ### [Cardboards](https://arvr.google.com/intl/es_es/cardboard/)
 
@@ -85,20 +98,21 @@ Apps para leerlos: Aplicaciones como "i-nigma" o “QR Code Reader”
 
 ![Uso](https://techviral.net/wp-content/uploads/2016/08/Use-Google-Cardboard-In-The-Phone-Not-Having-Gyroscope-Sensor.jpg)
 
-#### Fabricación
+#### Fabricación de las Cardboard
 
-    * [Imprimirlas](https://www.instructables.com/id/3D-Printed-Google-Cardboard-Kit/)
-    * [Recortarlas](https://www.instructables.com/id/How-to-make-Google-Cardboard/)
-    * [Comprarlas](https://arvr.google.com/cardboard/get-cardboard/)
+* [Puedes imprimirlas](https://www.instructables.com/id/3D-Printed-Google-Cardboard-Kit/)
+* [Puedes recortarlas](https://www.instructables.com/id/How-to-make-Google-Cardboard/)
+* [ó comprarlas](https://arvr.google.com/cardboard/get-cardboard/)
 
-#### Apps
+#### Apps para Cardboard
 
 [Apps](https://arvr.google.com/intl/es_es/cardboard/apps/)
 
-### HoloLens
-### Oculus
-### ...
-### [Guía de compra](https://elpelusa.es/nuevo-mundo-con-gafas-3d)
+### Otras gafas:
+* HoloLens
+* Oculus
+* ...
+[Guía para elegir gafas 3D](https://elpelusa.es/nuevo-mundo-con-gafas-3d)
 
 ## Apps de Realidad Virtual
 
@@ -112,7 +126,6 @@ Apps para leerlos: Aplicaciones como "i-nigma" o “QR Code Reader”
 
 ![](https://unity.com/sites/default/files/styles/16_9_s_scale_width/public/2019-09/gloomy-43.jpg?itok=Svx-2UdR)
 
-Gafas 3D https://elpelusa.es/nuevo-mundo-con-gafas-3d
 
 ## [Licencias y uso de recursos](https://catedu.gitbooks.io/introduccion-a-la-realidad-aumentada/content/ra-recursos-educativos-abiertos-rea.html)
 
