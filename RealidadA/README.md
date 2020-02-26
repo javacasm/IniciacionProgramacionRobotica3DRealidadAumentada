@@ -2,6 +2,7 @@
 
 ![](https://www.unitag.io/qreator/generate?crs=xnjFkEn%252FP85fCPDXJ%252FXXKnPnKU%252FtWVh9E7ei8Ex%252BR4XsTvus59MiRl4OtJ5Y%252F3aRXopA7Qn4wJ6m3qLfsP4IWv39ocSd3mMczmj1AuyiW6K%252F58n8n8s5NK61vAUi6GUR9QhYs1xUoNWG3PC4owAgU1Q%252FHThW3FIfdeEUqZ%252BlJgc%253D&crd=fhOysE0g3Bah%252BuqXA7NPQx2rrS2o9rjHfmG68tV%252F4kylibNjKGl2GGC8IAoEo6rKgwkb1fpkaZPApHKzcfkZGyMsecxbeLHcNyZc3SXr4FDHwPNUVPaqglGbjk8LdT9CRKZZeWnDDep2xIT%252BCyNTg%252FRc%252B2xrIWgE4HeocGM2N31agpZmso2N%252Fds68%252FpaSn5z)
 
+[Cómo crearlos](https://github.com/javacasm/IniciacionProgramacionRobotica3DRealidadAumentada/blob/master/RealidadA/README.md#c%C3%B3digos-qr)
 
 ## Realidad Aumentada
 
