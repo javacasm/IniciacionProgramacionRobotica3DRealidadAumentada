@@ -23,12 +23,19 @@ O instagram o snapchat
 
 ### Creación de contenidos
 
-#### [Creator](http://www.aumentaty.com/community/es/) y [Scope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=es)
+Aumentaty es una plataforma/comunidad de creación y visualización de contenidos
 
-Es una [comunidad](http://www.aumentaty.com/community/es/) donde podemos publicar y compartir creaciones
+En la [comunidad](http://www.aumentaty.com/community/es/) podemos publicar y compartir creaciones
+
+![](https://i1.wp.com/aumenta.me/wp-content/uploads/2017/10/imageaumentame.jpg)
+
+Creación con [Creator](http://www.aumentaty.com/community/es/) y [Scope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=es)
 
 [Ejemplo en Creator](https://moodle.catedu.es/mod/book/view.php?id=9981&chapterid=453) [Videotutorial](https://moodle.catedu.es/mod/book/view.php?id=1000&chapterid=26)
 
+Visor: [Scope](https://play.google.com/store/apps/details?id=com.aumentaty.scope&hl=es)
+
+![](https://www.marketingdirecto.com/wp-content/uploads/2017/11/aumentaty-principal.jpg)
 
 #### [Layar](https://www.layar.com/)
 
@@ -53,19 +60,26 @@ Creación de POI (Point of interest)
 
 ### Tour creator
 
-Herramienta sencilla para la creación de Tours virtuales
+Herramienta sencilla de Google para la creación de Tours virtuales
 
+#### Ejemplos
 [La huerta de Lorca (CEIP Fed. García Lorca)](https://poly.google.com/u/0/view/9Mz2g3b3M5N)
 
 [Nuestro universo: Tour creator](https://unblogfantasticoenguevejar.blogspot.com/2018/11/nuestro-universo-en-virtual.html)
 
+#### Creación de contenidos
 [Herramienta de creación de Tours](https://poly.google.com/creator/tours?dmr=0&pli=1/creator/tours/)
 
 [Tutorial de Tour creator](https://arvr.google.com/tourcreator/)
 
+#### Visor
+
 [Visor: Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=none)
 
+#### Ejemplos
+
 [Vídeo de Google Expeditions](https://edu.google.com/intl/es-419/products/vr-ar/expeditions/?modal_active=modal-video-n29VQwW-03o)
+
 
 [Listado de 100 expediciones Realidad Virtual](https://docs.google.com/spreadsheets/d/1uwWvAzAiQDueKXkxvqF6rS84oae2AU7eD8bhxzJ9SdY/edit#gid=765151678)
 
